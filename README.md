@@ -9,7 +9,7 @@ This folder contains the implementation of the algorithm for video rain streaks 
 If you use this code, please cite
 
       @article{WANG2018,
-        title = "A total variation and group sparsity based tensor optimization model for video rain streak removal",
+        title = {A total variation and group sparsity based tensor optimization model for video rain streak removal},
       journal = {Signal Processing: Image Communication},
 	     year = {2018},
 	   volume = {73},
